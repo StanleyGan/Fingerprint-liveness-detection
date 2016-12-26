@@ -1,3 +1,4 @@
+#By Stanley Gan, email:glgan@sfu.ca
 #Once cross validate 10 folds, test on test data which includes new spoofing techniques: Test_acc -> 0.98-0.99, ace=1.38
 #without pca,test_acc 90.08, ace 8.62
 

@@ -1,4 +1,6 @@
-'''1) Using PCA on 3 features extraction method. Test on 1500f, test_acc 0.9744, Ace 2.03
+'''
+By Stanley Gan, email:glgan@sfu.ca
+1) Using PCA on 3 features extraction method. Test on 1500f, test_acc 0.9744, Ace 2.03
 	2) without pca, test_acc 86.56, ace 12.45
 '''
 

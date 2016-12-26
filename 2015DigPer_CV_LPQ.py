@@ -1,4 +1,5 @@
 '''
+	By Stanley Gan, email:glgan@sfu.ca
 	Cross valdidation on model using LPQ features and finetune it
 	1) Finetune and got 1.0 val_acc
 '''

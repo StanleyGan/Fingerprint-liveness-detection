@@ -1,4 +1,6 @@
-'''Cross validate for model selection after trying out certain models, here I utilize PCA on dataset as it gave a great improvement
+'''
+	By Stanley Gan, email:glgan@sfu.ca
+	Cross validate for model selection after trying out certain models, here I utilize PCA on dataset as it gave a great improvement
 	1) without pca 0.993
 	2) with pca 0.995
 '''

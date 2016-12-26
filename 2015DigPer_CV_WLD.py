@@ -1,4 +1,6 @@
 '''
+
+	By Stanley Gan, email:glgan@sfu.ca
 	Cross validation on model based on WLD features and fine tune it
 	1) Fine tune val_acc: 0.9955
 '''

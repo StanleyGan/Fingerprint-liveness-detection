@@ -1,4 +1,5 @@
 '''
+	By Stanley Gan, email:glgan@sfu.ca
 	Cross validation on model based on BSIF features  and fine tuning model
 	1) val_accuracy with PCA 0.995
 	2) val_accuracy without PCA 0.99

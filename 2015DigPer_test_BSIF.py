@@ -1,4 +1,6 @@
-'''Input of network will be BSIF extracted features(4096) and they are from Digital Persona tech. year 2015
+'''
+   By Stanley Gan, email:glgan@sfu.ca
+   Input of network will be BSIF extracted features(4096) and they are from Digital Persona tech. year 2015
    Use PCA for feature selection, as we observed validation accuracy does not decrease, PCA could help? Yes it helps!
    Feed these features into a layer network
 

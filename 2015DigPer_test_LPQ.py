@@ -1,4 +1,6 @@
-"""Once cross validate 10 folds, test on test data which includes new spoofing techniques: Test_acc -> 0.99-1
+"""
+By Stanley Gan, email:glgan@sfu.ca
+Once cross validate 10 folds, test on test data which includes new spoofing techniques: Test_acc -> 0.99-1
 1) with PCA test_acc 0.99-1, ace = 1.17
 2) without pca, test acc 94.32, ace 4.92"""
 import numpy as np
