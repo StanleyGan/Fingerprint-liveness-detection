@@ -1,7 +1,9 @@
 # Author: Stanley Gan, glgan@sfu.ca
 # Fingerprint-liveness-detection using Neural Network models, built using Keras ontop of Tensorflow
-# Fingerprint images are based on the LivDet2015 competition, in which our group requested personally from the organization. Please refer to the organization if you would like to access the images.
-# I worked my models on Digital Persona scanned images, feel free to try others
+
+Fingerprint images are based on the LivDet2015 competition, in which our group requested personally from the organization. Please refer to the organization if you would like to access the images.
+
+I worked my models on Digital Persona scanned images, feel free to try others
 
 1) My models utilized features which are extracted by statistical methodologies Binarized Statistical Image Features(BSIF), 
 Local Phase Quantization(LPQ) and Weber Local Descriptor(WLD). Here are the references:
