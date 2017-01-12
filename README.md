@@ -14,7 +14,7 @@ Local Phase Quantization(LPQ) and Weber Local Descriptor(WLD). Here are the refe
 MATLAB codes for each method are available from the author's website.
 
 2) Once you run the MATLAB codes in extracting features from fingerprint images, you will have a large matrix of numbers. 
-Replace the extracted features file destination in my code files to your own file destination.
+Replace the extracted features file destination in my code files to your own file destination. (Or, you can use the extracted features already available here: https://github.com/StanleyGan/FingerprintLivenessDetection-project)
 
 3) There are 4 models here, in which each based on BSIF features, LPQ features, WLD features and MixFeat(BSIF,LPQ,WLD). 
 Each model has respective cross validate and test files. Cross validate files are to finetune only on the layers, dropout rate etc. 
